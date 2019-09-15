@@ -8,8 +8,19 @@ It was the best of times it was the worst of times
 
 -git commit -m "Initial Commit" - commits file to git
 
-- git add . - adds all files 
+-git add . - adds all files 
 
 -git log - shows all commits
 
 -git checkout chapter3.txt - rollsback to previous version
+
+-git remote add origin 
+
+https://github.com/jcarterprojects/story.git
+
+-git push -u origin master
+
+
+
+git remote add origin https://github.com/jcarterprojects/story.git
+git push -u origin master
