@@ -4,3 +4,12 @@ It was the best of times it was the worst of times
 
 -git status - see untracked files
 
+-git add filename - adds file to staging area
+
+-git commit -m "Initial Commit" - commits file to git
+
+- git add . - adds all files 
+
+-git log - shows all commits
+
+-git checkout chapter3.txt - rollsback to previous version
